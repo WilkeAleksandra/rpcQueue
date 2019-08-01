@@ -1,0 +1,8 @@
+D:\STUDIA\KSR\rabbit\RPSServer\RPSServer\bin\Debug\RPSServer.exe.config
+D:\STUDIA\KSR\rabbit\RPSServer\RPSServer\bin\Debug\RPSServer.exe
+D:\STUDIA\KSR\rabbit\RPSServer\RPSServer\bin\Debug\RPSServer.pdb
+D:\STUDIA\KSR\rabbit\RPSServer\RPSServer\bin\Debug\RabbitMQ.Client.dll
+D:\STUDIA\KSR\rabbit\RPSServer\RPSServer\bin\Debug\RabbitMQ.Client.xml
+D:\STUDIA\KSR\rabbit\RPSServer\RPSServer\obj\Debug\RPSServer.csprojResolveAssemblyReference.cache
+D:\STUDIA\KSR\rabbit\RPSServer\RPSServer\obj\Debug\RPSServer.exe
+D:\STUDIA\KSR\rabbit\RPSServer\RPSServer\obj\Debug\RPSServer.pdb
